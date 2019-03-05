@@ -1,2 +1,2 @@
 console.error("lalalalala")
-console.log{"nananananana"}
+console.log("nananananana")
